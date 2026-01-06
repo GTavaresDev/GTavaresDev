@@ -1,6 +1,5 @@
 <div align="center">
 
-# 👋 Olá, meu nome é Gabriel Tavares
 
 ### Desenvolvedor PHP •  • Laravel 12 • Java • Spring Boot
 
