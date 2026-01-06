@@ -1,53 +1,83 @@
-## 👋 Olá! Eu sou o Gabriel Tavares
+<div align="center">
 
-🎓 **Aluno de Sistemas de Informação** — Universidade Federal de Goiás (UFG)  
-💻 **Desenvolvedor Backend / Web** com foco em sistemas corporativos  
-🌐 **Inglês Avançado**
+# 👋 Olá, meu nome é Gabriel Tavares
 
-Atualmente atuo como **Desenvolvedor Júnior**, sendo responsável por desenvolvimento, manutenção e evolução de sistemas em produção, com experiência em reescrita de projetos legados, correção de bugs e deploy em ambientes de homologação e produção.
+### Desenvolvedor PHP •  • Laravel 12 • Java • Spring Boot
+
+🎓 Sistemas de Informação — **Universidade Federal de Goiás (UFG)**  
+🌐 Inglês Avançado  
+
+</div>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 👨‍💻 Sobre mim
+
+Sou **Desenvolvedor Júnior** com foco em **Backend e sistemas web corporativos**, atuando diretamente em **projetos reais em produção**.  
+Tenho experiência com **reescrita de sistemas legados**, manutenção contínua, correção de bugs e evolução de funcionalidades, sempre buscando **organização, clareza de requisitos e qualidade de código**.
+
+Atualmente trabalho como **único desenvolvedor responsável** por um **Sistema de Abertura de Chamados (SAC)**, além de participar do desenvolvimento de sistemas internos voltados à gestão e atendimento.
+
+---
+
+## 🚀 Competências Técnicas
 
 ### 🧠 Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring" />
+</p>
+
+### 🎨 Templates & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
+</p>
+
+- Blade
+- Livewire
 
 ### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
-### ⚙️ DevOps / Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ⚙️ DevOps / Ambiente
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
 
-### 🎨 Frontend / UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AdminLTE](https://img.shields.io/badge/AdminLTE-3C8DBC?style=for-the-badge)
-
-### 🔧 Versionamento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🌐 Frontend Básico
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
 ---
 
-## 📌 Áreas de Interesse
+## 🧩 Áreas de Interesse
 
 - Desenvolvimento Backend
 - Sistemas Web Corporativos
 - APIs REST
-- Arquitetura de Software
-- Melhoria e modernização de sistemas legados
+- **Modelagem de Projetos de Software**
+- **Engenharia de Requisitos**
+  - Levantamento e análise de requisitos
+  - Documentação funcional
+  - Entendimento de regras de negócio
+- Arquitetura de Sistemas
+- Modernização e reestruturação de sistemas legados
+- Boas práticas e código limpo
 
 ---
 
 ## 📫 Contato
 
 📧 **Email:** tavares.gabriel.dev@gmail.com  
-💼 **LinkedIn:** *(adicione aqui quando quiser)*  
+💼 **LinkedIn:** *(adicione quando quiser)*  
 
 ---
 
-⭐ *Sempre aberto a aprender, evoluir e contribuir em projetos reais.*
+<div align="center">
+
+⭐ Sempre em evolução, aprendendo e construindo soluções com impacto real.
+
+</div>
