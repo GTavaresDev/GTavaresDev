@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### Desenvolvedor PHP • Laravel 12 • Java • Spring Boot
+### Desenvolvedor PHP/Laravel 12 Jr | Sistemas Corporativos | Docker • MySQL
 
 🎓 Sistemas de Informação — **Universidade Federal de Goiás (UFG)**  
 🌐 Inglês Avançado  
