@@ -1,82 +1,100 @@
 <div align="center">
 
+### Software Engineer | PHP / Laravel 12 | Sistemas Corporativos | Docker • MySQL
 
-### Desenvolvedor PHP/Laravel 12 | Sistemas Corporativos | Docker • MySQL
-
-🎓 Sistemas de Informação — **Universidade Federal de Goiás (UFG)**  
-🌐 Inglês Avançado  
+🎓 Bachelor in Information Systems — **Federal University of Goiás (UFG)**  
+🌐 Advanced English (Technical & Conversational)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou **Desenvolvedor Júnior** com foco em **Backend e sistemas web corporativos**, atuando diretamente em **projetos reais em produção**.  
-Tenho experiência com **reescrita de sistemas legados**, manutenção contínua, correção de bugs e evolução de funcionalidades, sempre buscando **organização, clareza de requisitos e qualidade de código**.
+I am a **Software Engineer** focused on **backend and fullstack web systems**, working directly on **real-world production systems**.
 
-Atualmente trabalho como **único desenvolvedor responsável** por um **Sistema de Abertura de Chamados (SAC)**, além de participar do desenvolvimento de sistemas internos voltados à gestão e atendimento.
+I have solid experience with **legacy system modernization**, continuous maintenance, bug fixing, and feature evolution, always prioritizing **clean code, well-defined requirements, and scalable architecture**.
+
+Currently, I work as the **sole developer responsible** for a **Ticketing System (SAC)** used in a governmental environment, in addition to contributing to internal systems for management and public service.
 
 ---
 
-## 🚀 Competências Técnicas
+## 🚀 Technical Skills
 
 ### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 </p>
 
-### 🎨 Templates & Frameworks
+- Laravel 12
+- Blade & Livewire
+- REST APIs
+- Legacy System Refactoring
+
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel" />
-  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-- Blade
-- Livewire
+- Data modeling
+- Query optimization
+- Integrity & performance
 
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### ⚙️ DevOps / Ambiente
+### ⚙️ DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
-### 🌐 Frontend Básico
+- Dockerized environments
+- Git flow & CI/CD basics
+
+### 🎨 Frontend (Production-oriented)
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 ---
 
-## 🧩 Áreas de Interesse
+## 🧩 Areas of Expertise & Interest
 
-- Desenvolvimento Backend
-- Sistemas Web Corporativos
-- APIs REST
-- **Modelagem de Projetos de Software**
-- **Engenharia de Requisitos**
-  - Levantamento e análise de requisitos
-  - Documentação funcional
-  - Entendimento de regras de negócio
-- Arquitetura de Sistemas
-- Modernização e reestruturação de sistemas legados
-- Boas práticas e código limpo
+- Backend & Fullstack Development
+- Corporate Web Systems
+- RESTful APIs
+- Software Architecture
+- Legacy System Modernization
+- Requirements Engineering
+  - Functional analysis
+  - Business rules understanding
+  - Technical documentation
+- Clean Code & Best Practices
 
 ---
 
-## 📫 Contato
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GTavaresDev&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GTavaresDev&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GTavaresDev&theme=transparent" />
+</p>
+
+---
+
+## 📫 Contact
 
 📧 **Email:** tavares.gabriel.dev@gmail.com  
-💼 **LinkedIn:** *(adicione quando quiser)*  
+💼 **LinkedIn:** https://linkedin.com/in/gabriel-tavares-dos-santos/
 
 ---
 
 <div align="center">
 
-⭐ Sempre em evolução, aprendendo e construindo soluções com impacto real.
+⭐ Always evolving, learning, and building real-world solutions with impact.
 
 </div>
