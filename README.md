@@ -11,47 +11,47 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer focused on **backend and fullstack corporate systems**, working on **real production environments**.
+I am a **Software Engineer** focused on **backend and fullstack web systems**, working directly on **real-world production systems**.
 
-Experience with **legacy system modernization**, bug fixing, system maintenance and feature evolution, always prioritizing **clean code, well-defined requirements and scalable architecture**.
+I have solid experience with **legacy system modernization**, continuous maintenance, bug fixing, and feature evolution, always prioritizing **clean code, well-defined requirements, and scalable architecture**.
 
-Currently working as the **sole developer responsible** for a **Ticketing System (SAC)** in a governmental environment.
+Currently, I work as the **sole developer responsible** for a **Ticketing System (SAC)** used in a governmental environment, in addition to contributing to internal systems for management and public service.
 
 ---
 
 ## 🚀 Technical Skills
 
 ### 🧠 Backend
-- PHP (Laravel 12)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
+
+- Laravel 12
 - Blade & Livewire
 - REST APIs
-- Legacy system refactoring
+- Legacy System Refactoring
 
 ### 🗄️ Databases
-- MySQL
-- PostgreSQL
-- SQLite
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+- Data modeling
+- Query optimization
+- Integrity & performance
 
 ### ⚙️ DevOps & Tools
-- Docker
-- Git & GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
 
-### 🎨 Frontend
-- HTML
-- CSS
-- JavaScript
-- React / Next.js
-- Tailwind CSS
+- Dockerized environments
+- Git flow & CI/CD basics
 
----
-
-## 📊 GitHub Activity
-
-> GitHub contribution graph is shown automatically on my profile.
-
-- Consistent commits on production systems  
-- Real-world corporate and SaaS projects  
-- Focus on long-term maintainability  
+### 🎨 Frontend (Production-oriented)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
 ---
 
@@ -63,7 +63,26 @@ Currently working as the **sole developer responsible** for a **Ticketing System
 - Software Architecture
 - Legacy System Modernization
 - Requirements Engineering
+  - Functional analysis
+  - Business rules understanding
+  - Technical documentation
 - Clean Code & Best Practices
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GTavaresDev&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GTavaresDev&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GTavaresDev&theme=transparent" />
+</p>
 
 ---
 
@@ -76,6 +95,6 @@ Currently working as the **sole developer responsible** for a **Ticketing System
 
 <div align="center">
 
-⭐ Always evolving, learning, and building real-world solutions.
+⭐ Always evolving, learning, and building real-world solutions with impact.
 
 </div>
