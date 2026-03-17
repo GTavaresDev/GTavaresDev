@@ -159,19 +159,4 @@ Currently, I work as the **sole developer responsible** for a **Ticketing System
 
 [![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GTavaresDev&bg_color=0d1117&color=0de305&line=ffffff&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GTavaresDev/GTavaresDev/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GTavaresDev/GTavaresDev/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
 
----
-
-<div align="center">
-
-⭐ Always evolving, learning, and building real-world solutions with impact.
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0de305&height=120&section=footer"/>
