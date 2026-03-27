@@ -27,15 +27,6 @@
   <a href="https://api.whatsapp.com/send?phone=5562994279139&text=Let's%20talk%20about%20an%20opportunity..."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I am a **Software Engineer** focused on **backend and fullstack web systems**, working directly on **real-world production systems**.
-
-I have solid experience with **legacy system modernization**, continuous maintenance, bug fixing, and feature evolution, always prioritizing **clean code, well-defined requirements, and scalable architecture**.
-
-Currently, I work as the **sole developer responsible** for a **Ticketing System (SAC)** at the **State Secretariat of Culture of Goiás (SECULT)**, used across multiple governmental units — and I am also the **Founder & Engineer** behind **VisiOne Web**, a multi-tenant SaaS platform for digital presence of small and medium businesses.
 
 ---
 
