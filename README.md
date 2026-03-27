@@ -5,7 +5,10 @@
 <div align="center">
 
 ### Software Engineer | PHP / Laravel 12 | Corporate Systems | Docker • MySQL
-### Founder @ VisiOne Web
+
+### 🏛️ Software Engineer — FullStack @ [SECULT-GO](https://www.cultura.go.gov.br/) *(Jan 2025 – Present)*
+
+### 🚀 Founder & Software Engineer @ [VisiOne Web](https://visione.com.br) *(Jan 2024 – Present)*
 
 🎓 Bachelor in Information Systems — **Federal University of Goiás (UFG)**  
 🌐 Advanced English (B2) • Basic Spanish (A1)
@@ -99,11 +102,6 @@ Currently, I work as the **sole developer responsible** for a **Ticketing System
 
 ---
 
-## 💼 Experience
-
-### 🏛️ Software Engineer — FullStack @ [SECULT-GO](https://www.cultura.go.gov.br/) *(Jan 2025 – Present)*
-
-### 🚀 Founder & Software Engineer @ [VisiOne Web](https://visione.com.br) *(Jan 2024 – Present)*
 
 
 
