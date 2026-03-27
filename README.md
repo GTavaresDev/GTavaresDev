@@ -16,16 +16,6 @@
 
 </div>
 
----
-
-## 🧠 About Me
-
-Software Engineer focused on building **scalable backend systems**, APIs and corporate solutions.
-
-Experience rewriting legacy systems from scratch, improving architecture, performance and deployment pipelines.
-
----
-
 ## ⚙️ Core Stack
 
 <div align="center">
@@ -80,10 +70,4 @@ Experience rewriting legacy systems from scratch, improving architecture, perfor
 
 ---
 
-## 📊 Activity
 
-<div align="center">
-
-[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GTavaresDev&bg_color=0d1117&color=0de305&line=ffffff&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
