@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0de305&size=28&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Gabriel+Tavares+👋;Software+Engineer+focused+on+Backend+Systems;PHP+%7C+Laravel+%7C+Scalable+Applications;Building+real+solutions+for+real+problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0de305&size=28&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Gabriel+Tavares+👋;Software+Engineer+focused+on+Backend+Systems;PHP+%7C+Laravel+%7C+Scalable+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ### 🚀 Software Engineer | Backend & Fullstack
 
-💼 FullStack Engineer @ **SECULT-GO**  
-🚀 Founder @ **VisiOne Web**  
-🎓 Information Systems — **UFG**
+💼 **FullStack Engineer @ SECULT-GO**  
+🚀 **Founder @ VisiOne Web**  
+🎓 **Information Systems — UFG**
 
 🌐 English B2 • Spanish A1
 
@@ -28,8 +28,6 @@ Software Engineer focused on building **scalable backend systems**, APIs and cor
 
 Experience rewriting legacy systems from scratch, improving architecture, performance and deployment pipelines.
 
-Always evolving, learning and building real-world solutions.
-
 ---
 
 ## ⚙️ Core Stack
@@ -37,6 +35,26 @@ Always evolving, learning and building real-world solutions.
 <div align="center">
 
 **PHP · Laravel · MVC · REST APIs · Docker · MySQL**
+
+</div>
+
+---
+
+## 🚀 Skills
+
+<div align="center">
+
+### 🧠 Backend
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+### ⚙️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" />
 
 </div>
 
