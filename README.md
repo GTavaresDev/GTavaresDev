@@ -12,11 +12,7 @@
 
 ### 🚀 Software Engineer | Backend & Fullstack
 
-💼 **FullStack Engineer @ SECULT-GO**  
-🚀 **Founder @ VisiOne Web**  
-🎓 **Information Systems — UFG**
-
-🌐 English B2 • Spanish A1
+💼 **FullStack Engineer @ SECULT-GO**  🚀 **Founder @ VisiOne Web**  🎓 **Information Systems — UFG** 🌐 English B2 • Spanish A1
 
 </div>
 
