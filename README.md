@@ -107,14 +107,6 @@ Currently, I work as the **sole developer responsible** for a **Ticketing System
 
 
 
-<h2 align="center">📊 GITHUB STATS</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GTavaresDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=0de305&icon_color=0de305&text_color=ffffff&bg_color=0d1117&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GTavaresDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=0de305&text_color=ffffff&bg_color=0d1117&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<br/>
 
 [![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GTavaresDev&bg_color=0d1117&color=0de305&line=ffffff&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
