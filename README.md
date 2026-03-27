@@ -103,50 +103,9 @@ Currently, I work as the **sole developer responsible** for a **Ticketing System
 
 ### 🏛️ Software Engineer — FullStack @ [SECULT-GO](https://www.cultura.go.gov.br/) *(Jan 2025 – Present)*
 
-- Fullstack development and maintenance of a **Ticketing System (SAC)** used across multiple governmental units
-- Technical leadership in **legacy system modernization**, migrating monoliths to **Laravel 12**
-- Built reactive interfaces with **Blade + Livewire** and enforced code standardization
-- Developed **REST APIs** with validation, authentication, and internal integrations
-- Modeled and optimized **MySQL** databases for integrity and performance
-- Applied **SOLID, DRY**, code review, and introduced automated testing
-- Used **Docker** to standardize dev and production environments
-- Gathered requirements from stakeholders and translated them into technical solutions
-
 ### 🚀 Founder & Software Engineer @ [VisiOne Web](https://visione.com.br) *(Jan 2024 – Present)*
 
-- Designed, architected, and developed a **multi-tenant SaaS platform** for digital presence of SMBs
-- Implemented **multi-tenant architecture** with data isolation, modularization, and per-client customization
-- Built **REST APIs** consumed by modern **Next.js** applications
-- Created vertical solutions:
-  - 🛒 **Digital Menu**: Shopping cart and automated order flow via WhatsApp integration
-  - 📅 **Digital Scheduling**: Reservation and appointment management for service providers
-  - 🌐 **Landing Pages & Portfolios**: SEO-optimized pages built for conversion
-- Continuously developed **POCs** to evaluate new technologies and scalability improvements
-- Organized public repositories with **technical documentation** and clean Docker setup
 
----
-
-## 🧩 Areas of Expertise & Interest
-
-- Backend & Fullstack Development
-- Corporate Web Systems & SaaS Platforms
-- RESTful APIs & System Integrations
-- Software Architecture & Design Patterns (SOLID, DRY, Layered Architecture)
-- Legacy System Modernization
-- Requirements Engineering & Technical Documentation
-- Clean Code & Best Practices
-
----
-
-## 📚 Courses & Certifications
-
-- Next.js do Zero ao Avançado com Projetos
-- Curso Web Moderno Completo com JavaScript + Projetos
-- Laravel do zero ao Deploy com Docker
-- Deep Learning com Python de A a Z — O Curso Completo
-- Java COMPLETO — Programação Orientada a Objetos + Projetos
-
----
 
 <h2 align="center">📊 GITHUB STATS</h2>
 
