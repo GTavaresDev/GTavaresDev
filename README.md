@@ -21,6 +21,22 @@
 **PHP · Laravel · MVC · REST APIs · Docker · MySQL**
 
 </div>
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-neon-one-63.vercel.app/api?username=joaopedromadeira-dev&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedromadeira-dev&theme=github-dark&hide_border=true" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-neon-one-63.vercel.app/api/top-langs/?username=joaopedromadeira-dev&theme=github_dark&hide_border=true&layout=compact" width="420"/>
+</div>
+
+---
+
 
 ---
 
