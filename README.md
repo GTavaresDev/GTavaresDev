@@ -42,7 +42,7 @@ GitHub Stats
 
 ## 🚀 Skills
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap;">
 
 ### 🧠 Backend
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
