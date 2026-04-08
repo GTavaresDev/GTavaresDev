@@ -21,6 +21,10 @@
 **PHP · Laravel · MVC · REST APIs · Docker · MySQL**
 
 </div>
+
+---
+
+
 GitHub Stats
 
 <div align="center">
@@ -34,9 +38,6 @@ GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-neon-one-63.vercel.app/api/top-langs/?username=GTavaresDev&theme=github_dark&hide_border=true&layout=compact" width="420"/>
 </div>
-
----
-
 
 ---
 
