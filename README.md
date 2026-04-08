@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0de305&height=120&section=header"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0de305&size=28&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Gabriel+Tavares+👋;Software+Engineer+focused+on+Backend+Systems;PHP+%7C+Laravel+%7C+Scalable+Applications)](https://git.io/typing-svg)
