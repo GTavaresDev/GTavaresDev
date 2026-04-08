@@ -14,6 +14,8 @@
 
 </div>
 
+<div align="center">
+
 ## ⚙️ Core Stack **Laravel · MVC · APIs · Next.js ·Docker · MySQL**
 
 </div>
