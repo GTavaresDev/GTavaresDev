@@ -42,19 +42,15 @@ GitHub Stats
 
 ## 🚀 Skills
 
-<div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap;">
+<div align="center">
 
-### 🧠 Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
+| 🧠 Backend | 🎨 Frontend |
+|----------|------------|
+| <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /> |
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-
-### ⚙️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" />
+| 🗄️ Database | ⚙️ DevOps & Tools |
+|------------|------------------|
+| <img src="https://skillicons.dev/icons?i=mysql,postgresql" /> | <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" /> |
 
 </div>
 
