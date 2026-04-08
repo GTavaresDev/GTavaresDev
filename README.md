@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🚀 Software Engineer | Backend & Fullstack
+## 🚀 Software Engineer | Backend & Fullstack
 
 💼 **FullStack Engineer @ SECULT-GO**  🚀 **Founder @ VisiOne Web**  🎓 **Information Systems — UFG** 🌐 English B2 • Spanish A1
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## ⚙️ Core Stack **Laravel · MVC · APIs · Next.js ·Docker · MySQL**
+### ⚙️ Core Stack **Laravel · MVC · APIs · Next.js ·Docker · MySQL**
 
 </div>
 
