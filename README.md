@@ -10,7 +10,7 @@
 
 ## 🚀 Software Engineer | Backend & Fullstack
 
-💼 **FullStack Engineer @ SECULT-GO**  🚀 **Founder @ VisiOne Web**  🎓 **Information Systems — UFG** 🌐 English B2 • Spanish A1
+💼 **FullStack Engineer @ hyerdev**  🚀 **Founder @ VisiOne Web**  🎓 **Information Systems — UFG** 🌐 English B2 • Spanish A1
 
 </div>
 
@@ -26,8 +26,6 @@
 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-neon-one-63.vercel.app/api?username=GTavaresDev&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GTavaresDev&theme=github-dark&hide_border=true" height="180"/>
 </div>
 
