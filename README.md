@@ -1,6 +1,6 @@
 <div align="center">
 
-##👋 Hey, I'm Gabriel Tavares##
+## 👋 Hey, I'm Gabriel Tavares ##
 
 Full-Stack Software Engineer · @ SacFlow
 
