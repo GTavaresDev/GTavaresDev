@@ -6,18 +6,8 @@
 
 Building scalable applications with **Next.js**, **Laravel**, and modern web technologies.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e90ff&size=28&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Gabriel+Tavares+👋;Full-Stack+Software+Engineer;Next.js+%7C+Laravel+%7C+Scalable+Applications)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 💼 Currently Working
-
-🚀 **Full-Stack Software Engineer @ SacFlow**
-
-Building customer portals, websites and business automation solutions focused on performance, scalability and user experience.
-
 ---
 
 ## ⚡ Tech Stack
@@ -40,24 +30,16 @@ Building customer portals, websites and business automation solutions focused on
 
 ---
 
-<div align="center">
+<h3 align="center">📫 Connect with me</h3>
 
-### 📫 Connect with me
-
-<a href="https://github.com/GTavaresDev">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:SEUEMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/GTavaresDev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEUEMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
