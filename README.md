@@ -11,7 +11,7 @@ Building scalable applications with Next.js, Laravel, and modern web technologie
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats-nu-topaz-78.vercel.app/api?username=GTavaresDev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GTavaresDev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
   <img src="https://streak-stats.demolab.com/?user=GTavaresDev&theme=radical&hide_border=true" alt="GitHub Streak" />
 
