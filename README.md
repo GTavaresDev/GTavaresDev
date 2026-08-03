@@ -26,12 +26,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GTavaresDev&theme=github-dark&hide_border=true"/>
-
-  <br/><br/>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GTavaresDev&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTavaresDev&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GTavaresDev&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats-neon-one-63.vercel.app/api/top-langs/?username=GTavaresDev&theme=github_dark&hide_border=true&layout=compact" width="420"/>
 </div>
 
 ---
