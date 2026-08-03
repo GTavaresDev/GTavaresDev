@@ -20,6 +20,8 @@ Building scalable applications with **Next.js**, **Laravel**, and modern web tec
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description |
