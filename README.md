@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hey, I'm Gabriel Tavares ##
+## 👋 Hey, I'm Gabriel Tavares
 
 Full-Stack Software Engineer · @ SacFlow
 
@@ -12,11 +12,8 @@ Building scalable applications with Next.js, Laravel, and modern web technologie
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GTavaresDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="GitHub Stats" />
-
   <img src="https://streak-stats.demolab.com/?user=GTavaresDev&theme=react&hide_border=true" alt="GitHub Streak" />
-   <img src="https://ghstats.dev/api/mini?username=GTavaresDev&stat=weekly&theme=react&label=Commits%20esta%20semana" alt="Weekly Commits" />
-
-  
+  <img src="https://ghstats.dev/api/mini?username=GTavaresDev&stat=weekly&theme=tokyonight&label=Commits%20esta%20semana" alt="Weekly Commits" />
 </div>
 
 ## ⚡ Tech Stack
