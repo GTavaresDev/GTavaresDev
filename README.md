@@ -13,7 +13,9 @@ Building scalable applications with Next.js, Laravel, and modern web technologie
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GTavaresDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=GTavaresDev&theme=react&hide_border=true" alt="GitHub Streak" />
-  <img src="https://ghstats.dev/api/mini?username=GTavaresDev&stat=weekly&theme=tokyonight&label=Commits%20esta%20semana" alt="Weekly Commits" />
+ <div align="center">
+  <img src="https://img.shields.io/badge/Commits%20esta%20semana-3-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Commits esta semana" />
+</div>
 </div>
 
 ## ⚡ Tech Stack
