@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e90ff&size=28&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Gabriel+Tavares+👋;Software+Engineer+focused+on+Backend+Systems;PHP+%7C+Laravel+%7C+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e90ff&size=28&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Gabriel+Tavares+👋;Software+Engineer+focused+on+Backend+Systems;Next.js+%7C+Laravel+%7C+Scalable+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,9 +8,9 @@
 
 <div align="center">
 
-## 🚀 Software Engineer | Backend & Fullstack
+## 🚀 Software Engineer | Fullstack
 
-💼 **FullStack Engineer @ hyerdev**  🚀 **Founder @ VisiOne Web**  🎓 **Information Systems — UFG** 🌐 English B2 • Spanish A1
+💼 **FullStack Engineer @ hyerdev** 🎓 **Information Systems — UFG** 🌐 English B2 • Spanish A1
 
 </div>
 
@@ -43,11 +43,11 @@ GitHub Stats
 
 | 🧠 Backend | 🎨 Frontend |
 |----------|------------|
-| <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /> |
+| <img src="https://skillicons.dev/icons?i=typescript,next,laravel,nodejs" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sahdcn" /> |
 
 | 🗄️ Database | ⚙️ DevOps & Tools |
 |------------|------------------|
-| <img src="https://skillicons.dev/icons?i=mysql,postgresql" /> | <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" /> |
+| <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" /> | <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab" /> |
 
 </div>
 
