@@ -8,6 +8,7 @@ Building scalable applications with **Next.js**, **Laravel**, and modern web tec
 
 
 </div>
+
 ---
 
 ## ⚡ Tech Stack
@@ -18,7 +19,7 @@ Building scalable applications with **Next.js**, **Laravel**, and modern web tec
 
 </div>
 
----
+
 
 ---
 
