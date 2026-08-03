@@ -33,13 +33,13 @@ Building scalable applications with **Next.js**, **Laravel**, and modern web tec
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
-  <a href="https://github.com/GTavaresDev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/GTavaresDev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
   <a href="mailto:SEUEMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
