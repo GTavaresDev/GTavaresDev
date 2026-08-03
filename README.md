@@ -11,16 +11,16 @@ Building scalable applications with Next.js, Laravel, and modern web technologie
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GTavaresDev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GTavaresDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="GitHub Stats" />
 
-  <img src="https://streak-stats.demolab.com/?user=GTavaresDev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GTavaresDev&theme=react&hide_border=true" alt="GitHub Streak" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GTavaresDev&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Commits%20esta%20semana-clique%20para%20ver-blue?style=for-the-badge&logo=github" alt="Commits esta semana" />
-  <img src="https://ghstats.dev/api/mini?username=GTavaresDev&stat=weekly&theme=radical&label=Commits%20esta%20semana" alt="Weekly Commits" />
+  <img src="https://ghstats.dev/api/mini?username=GTavaresDev&stat=weekly&theme=react&label=Commits%20esta%20semana" alt="Weekly Commits" />
 </div>
 
 ## ⚡ Tech Stack
