@@ -17,7 +17,6 @@ Building scalable applications with Next.js, Laravel, and modern web technologie
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Commits%20esta%20semana-clique%20para%20ver-blue?style=for-the-badge&logo=github" alt="Commits esta semana" />
   <img src="https://ghstats.dev/api/mini?username=GTavaresDev&stat=weekly&theme=react&label=Commits%20esta%20semana" alt="Weekly Commits" />
 </div>
 
