@@ -1,10 +1,5 @@
-Hey, I'm Gabriel Tavares
-
-Full-Stack Software Engineer · @ SacFlow
-
+Hey, I'm Gabriel Tavares, Full-Stack Software Engineer · @ SacFlow
 Building scalable applications with Next.js, Laravel, and modern web technologies.
-
-
 
 ## 📊 GitHub Statistics
 
