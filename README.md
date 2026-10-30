@@ -7,13 +7,6 @@ Building scalable applications with Next.js, Laravel, and modern web technologie
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,laravel,mysql,postgres,docker,git,github,tailwind,vscode,vercel" />
 </div>
 
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GTavaresDev&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
-
-
 
 ## Featured Projects
 
