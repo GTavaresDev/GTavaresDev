@@ -1,13 +1,13 @@
 Hey, I'm Gabriel Tavares, Full-Stack Software Engineer · @ SacFlow
 Building scalable applications with Next.js, Laravel, and modern web technologies.
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,laravel,mysql,postgres,docker,git,github,tailwind,vscode,vercel" />
 </div>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=GTavaresDev&theme=react&hide_border=true" alt="GitHub Streak" />
