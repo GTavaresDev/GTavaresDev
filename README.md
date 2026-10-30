@@ -1,25 +1,27 @@
 Hey, I'm Gabriel Tavares, Full-Stack Software Engineer · @ SacFlow
 Building scalable applications with Next.js, Laravel, and modern web technologies.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GTavaresDev&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## ⚡ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,laravel,mysql,postgres,docker,git,github,tailwind,vscode,vercel" />
 </div>
 
-## 🚀 Featured Projects
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=GTavaresDev&theme=react&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
+
+## Featured Projects
 
 | Project | Description |
 |---|---|
-| 🚀 SacFlow | Platform for customer 'Área do Cliente', websites and business automation. |
-| 🌐 Portfolio | Personal website built with Next.js and Tailwind CSS. |
-| ⚡ REST APIs | Scalable APIs developed with Laravel and modern backend practices. |
+|  SacFlow | Platform for customer 'Área do Cliente', websites and business automation. |
+| Portfolio | Personal website built with Next.js and Tailwind CSS. |
+| REST APIs | Scalable APIs developed with Laravel and modern backend practices. |
 
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
