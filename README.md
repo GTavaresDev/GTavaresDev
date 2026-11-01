@@ -31,7 +31,7 @@ Building scalable applications with Next.js, Laravel, and modern web technologie
       </table>
     </td>
     <td valign="top" align="center" width="35%">
-      <h2>📫 Connect with me</h2>
+      <h2>📫 Contacts </h2>
       <a href="https://github.com/GTavaresDev" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" height="50" />
       </a>
