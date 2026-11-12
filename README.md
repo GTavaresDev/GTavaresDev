@@ -4,7 +4,7 @@ Building scalable applications with Next.js, Laravel, and modern web technologie
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,laravel,mysql,postgres,docker,git,github,tailwind,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,typescript,javascript,nodejs,mysql,postgres,docker,git,tailwind,vercel" />
 </div>
 
 <table>
